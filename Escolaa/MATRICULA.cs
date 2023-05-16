@@ -7,6 +7,8 @@ namespace Escolaa
 {
     public class MATRICULA
     {
-        private int field;
+        private int id_aluno;
+        private int id_turma;
+        private int id_curso;
     }
 }

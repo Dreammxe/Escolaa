@@ -5,11 +5,8 @@ using System.Text;
 
 namespace Escolaa
 {
-    public class ALUNO
+    public class ALUNO:PESSOA
     {
-        private int id_aluno;
-        private int nomesocial;
-        private int cpf;
-        private int nome;
+
     }
 }
