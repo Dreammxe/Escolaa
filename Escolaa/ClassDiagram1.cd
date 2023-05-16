@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Escolaa.CURSO">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAIAAAAAAAAQAAAACAAAAKAAEAAAAAAAAAAgCA=</HashCode>
+      <FileName>Curso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Escolaa.ALUNO">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACAAAAAAAAAAgAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>ALUNO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Escolaa.PROFESSOR">
+    <Position X="6.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAABAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAIAAAAAA=</HashCode>
+      <FileName>PROFESSOR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Escolaa.MATRICULA">
+    <Position X="2" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MATRICULA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
